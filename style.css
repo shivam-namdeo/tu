@@ -1,0 +1,73 @@
+body
+
+{
+    font-family: 'Roboto', sans-serif;
+
+    background-color: teal;
+}
+
+
+
+
+
+    .heder
+
+{
+    background-color: transparent;
+
+    color: azure;
+}
+
+
+.heder p 
+
+{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    font-size: 15px;
+
+    letter-spacing: 2px;
+
+    color: #0000ff;
+
+    font-weight: bold;
+}
+
+
+.main button
+
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    letter-spacing: 2px;
+
+    font-weight: bold;
+
+    margin-top: 30px;
+
+    width: 130px;
+
+}
+
+.footer
+
+{
+    position: fixed;
+
+    color: azure;
+
+    bottom: 0;
+
+    width: 100%;
+
+    font-size: 18px;
+
+    background-color: #ff0808;
+
+    line-height: 3;
+
+    text-align: center;
+
+    text-shadow: 5px 5px 5px navy;
+}
